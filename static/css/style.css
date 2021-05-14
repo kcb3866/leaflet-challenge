@@ -8,3 +8,15 @@ body,
 html {
   height: 100%;
 }
+
+.legend {
+  padding: 5px;
+  line-height: 18px;
+  
+}
+
+.legend i{
+  float: left;
+  width: 30px;
+  height: 18px;
+}

@@ -10,13 +10,16 @@ html {
 }
 
 .legend {
+  border-radius: 10px;
   padding: 5px;
   line-height: 18px;
-  
+  color: black;
+  background-color: blanchedalmond;
 }
 
 .legend i{
   float: left;
   width: 30px;
   height: 18px;
+
 }
